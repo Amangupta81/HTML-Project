@@ -1,0 +1,37 @@
+body{
+    margin:0;
+    padding:0;
+    font-family: "RobotoDraft","Roboto",sans-serif;
+    font-size:25px;
+    background: url(bg1.jpg);
+}
+h1{
+    text-align: center;
+    font-size: 50px;
+    color: aliceblue;
+    box-shadow:0 4px 8px 0 #ff005d,0 6px 20px 0 rgba(0,0,0,0.19);
+}
+.Glass{
+    position: fixed;
+    top:1% ;
+    left:46%;
+    bottom:32%;
+    transform:translate(-50%,50%);
+    background-color: rgba(197, 30, 88, 0.655);
+    text-align:center;
+    margin:5px 40px;
+    text-align:center;
+    border:3px solid#0367fd;
+    font-weight:60px;
+    padding:90px 65px;
+    width:200px;
+    color:black;
+    border-radius:24px;
+    transition: 0.25ms;
+}
+h2{
+    box-shadow:0 4px 8px 0 black,0 6px 20px 0 black;
+}
+.Glass input{
+    border:3px solid#0367fd;
+}

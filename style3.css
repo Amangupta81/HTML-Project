@@ -1,0 +1,16 @@
+body {
+    font-family: Arial;
+    margin: 0 auto;
+    max-width: 800px;
+    padding: 20px;
+}
+.heading {
+    font-size: 25px;
+    margin-right: 25px;
+}
+.fa {
+    font-size: 25px;
+}
+.checked {
+    color: orange;
+}
